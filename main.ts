@@ -84,7 +84,7 @@ enum Color {
 }
 
 //% color=190 weight=100 icon="\uf1ec" block="Ovobot Modules"
-namespace ovobotModules {
+namespace astoneModules {
     const SONAR_ADDRESS = 0x52
     const MOTOR_ADDRESS = 0x64
     const SERVO_ADDRESS = 0x74
